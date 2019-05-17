@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f56cfbb0a4729d3f5b5d9777886fe46",
+    "revision": "7277e37fec37c2ada179aeb84dd4bb88",
     "url": "/Lastfm/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lastfm/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "a8f321654c88d7e3a370",
+    "revision": "2627772a2cdd5c89ffec",
     "url": "/Lastfm/static/css/main.6462c837.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lastfm/static/js/2.569e4085.chunk.js"
   },
   {
-    "revision": "a8f321654c88d7e3a370",
-    "url": "/Lastfm/static/js/main.783f658b.chunk.js"
+    "revision": "2627772a2cdd5c89ffec",
+    "url": "/Lastfm/static/js/main.b677537c.chunk.js"
   },
   {
     "revision": "af42a16bc80cd0aa061d",
