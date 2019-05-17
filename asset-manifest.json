@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Lastfm/static/css/main.f3a636df.chunk.css",
-    "main.js": "/Lastfm/static/js/main.43ea3c19.chunk.js",
-    "main.js.map": "/Lastfm/static/js/main.43ea3c19.chunk.js.map",
+    "main.css": "/Lastfm/static/css/main.6462c837.chunk.css",
+    "main.js": "/Lastfm/static/js/main.783f658b.chunk.js",
+    "main.js.map": "/Lastfm/static/js/main.783f658b.chunk.js.map",
     "runtime~main.js": "/Lastfm/static/js/runtime~main.f9b2d06e.js",
     "runtime~main.js.map": "/Lastfm/static/js/runtime~main.f9b2d06e.js.map",
     "static/css/2.764ccc25.chunk.css": "/Lastfm/static/css/2.764ccc25.chunk.css",
-    "static/js/2.927f8742.chunk.js": "/Lastfm/static/js/2.927f8742.chunk.js",
-    "static/js/2.927f8742.chunk.js.map": "/Lastfm/static/js/2.927f8742.chunk.js.map",
+    "static/js/2.569e4085.chunk.js": "/Lastfm/static/js/2.569e4085.chunk.js",
+    "static/js/2.569e4085.chunk.js.map": "/Lastfm/static/js/2.569e4085.chunk.js.map",
     "index.html": "/Lastfm/index.html",
-    "precache-manifest.018c2998645df2c5b7917b98122b8734.js": "/Lastfm/precache-manifest.018c2998645df2c5b7917b98122b8734.js",
+    "precache-manifest.9ce74c19f063ff4fa840b300d0a47401.js": "/Lastfm/precache-manifest.9ce74c19f063ff4fa840b300d0a47401.js",
     "service-worker.js": "/Lastfm/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/Lastfm/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.f3a636df.chunk.css.map": "/Lastfm/static/css/main.f3a636df.chunk.css.map",
+    "static/css/main.6462c837.chunk.css.map": "/Lastfm/static/css/main.6462c837.chunk.css.map",
     "static/media/Header.module.css": "/Lastfm/static/media/search-icon.2086744a.svg"
   }
 }

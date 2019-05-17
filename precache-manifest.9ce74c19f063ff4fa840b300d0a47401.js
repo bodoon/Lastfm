@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cd7aa0cc63a799218a5f30185fddfcb",
+    "revision": "1f56cfbb0a4729d3f5b5d9777886fe46",
     "url": "/Lastfm/index.html"
   },
   {
-    "revision": "ece0af29d490d6e22100",
+    "revision": "675660ed12f8768099fa",
     "url": "/Lastfm/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "6c11a31629885bae3000",
-    "url": "/Lastfm/static/css/main.f3a636df.chunk.css"
+    "revision": "a8f321654c88d7e3a370",
+    "url": "/Lastfm/static/css/main.6462c837.chunk.css"
   },
   {
-    "revision": "ece0af29d490d6e22100",
-    "url": "/Lastfm/static/js/2.927f8742.chunk.js"
+    "revision": "675660ed12f8768099fa",
+    "url": "/Lastfm/static/js/2.569e4085.chunk.js"
   },
   {
-    "revision": "6c11a31629885bae3000",
-    "url": "/Lastfm/static/js/main.43ea3c19.chunk.js"
+    "revision": "a8f321654c88d7e3a370",
+    "url": "/Lastfm/static/js/main.783f658b.chunk.js"
   },
   {
     "revision": "af42a16bc80cd0aa061d",
