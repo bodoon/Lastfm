@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Lastfm/static/css/main.6462c837.chunk.css",
+    "main.css": "/Lastfm/static/css/main.14b112ff.chunk.css",
     "main.js": "/Lastfm/static/js/main.b677537c.chunk.js",
     "main.js.map": "/Lastfm/static/js/main.b677537c.chunk.js.map",
     "runtime~main.js": "/Lastfm/static/js/runtime~main.f9b2d06e.js",
@@ -9,10 +9,10 @@
     "static/js/2.569e4085.chunk.js": "/Lastfm/static/js/2.569e4085.chunk.js",
     "static/js/2.569e4085.chunk.js.map": "/Lastfm/static/js/2.569e4085.chunk.js.map",
     "index.html": "/Lastfm/index.html",
-    "precache-manifest.dd794858ff3df233c5935b0787a99272.js": "/Lastfm/precache-manifest.dd794858ff3df233c5935b0787a99272.js",
+    "precache-manifest.7332146307c78749e79709fab6df1a92.js": "/Lastfm/precache-manifest.7332146307c78749e79709fab6df1a92.js",
     "service-worker.js": "/Lastfm/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/Lastfm/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.6462c837.chunk.css.map": "/Lastfm/static/css/main.6462c837.chunk.css.map",
+    "static/css/main.14b112ff.chunk.css.map": "/Lastfm/static/css/main.14b112ff.chunk.css.map",
     "static/media/Header.module.css": "/Lastfm/static/media/search-icon.2086744a.svg"
   }
 }
